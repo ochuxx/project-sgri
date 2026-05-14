@@ -7,4 +7,4 @@ Open Source para el conocimiento.
 
 Casos de uso en el sistema SGRI por cada uno de los actores: **estudiante**, **profesor** y **administración estudiantil**.
 
-<img src=".Docs/Diagrams/Images/Casos_de_Uso_vr2.1.png" alt="imagen_casos_de_uso" style="max-width: 350px;">
+<img src="./Docs/Diagrams/Images/Casos_de_Uso_vr2.1.png" alt="imagen_casos_de_uso" style="max-width: 350px;">
