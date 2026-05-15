@@ -54,8 +54,8 @@ export default function Splash({ onFinish }) {
 
         {/* Text */}
         <div className="splash-text">
-          <h1 className="splash-title">UNICAFAM</h1>
-          <p className="splash-subtitle">Campus Académico · SGRI</p>
+          <h1 className="splash-title">SGRI</h1>
+          <p className="splash-subtitle">Campus Académico · Investigación</p>
         </div>
 
         {/* Progress bar */}

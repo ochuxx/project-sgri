@@ -1,6 +1,6 @@
 # DOCUMENTACIÓN TÉCNICA: CAMPUS ACADÉMICO (SGRI)
 
-Este documento detalla la arquitectura, el funcionamiento de los archivos y los métodos técnicos utilizados para la creación y optimización de la plataforma Campus Académico.
+Este documento detalla la arquitectura, el funcionamiento de los archivos y los métodos técnicos utilizados para la creación y optimización de la plataforma Campus Académico, un sistema diseñado para ser implementado en cualquier institución universitaria.
 
 ---
 

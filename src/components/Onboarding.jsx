@@ -10,7 +10,7 @@ const SLIDES = [
     color: '#a78bfa', // Purple/Violet
     bgColor: 'rgba(167, 139, 250, 0.15)',
     title: 'Bienvenido a SGRI',
-    desc: 'Sistema de Gestión de la Investigación Institucional desarrollado para la Fundación Universitaria Cafam. Una herramienta centralizada para potenciar el conocimiento.',
+    desc: 'Sistema de Gestión de la Investigación Institucional diseñado para optimizar los procesos académicos en cualquier universidad. Una herramienta centralizada para potenciar el conocimiento.',
     badge: 'Institucional'
   },
   {
