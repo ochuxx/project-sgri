@@ -1,55 +1,61 @@
-# SGRI - Sistema de Gestión de la Investigación Institucional
-## Proyecto para la Fundación Universitaria Cafam.
-*Open Source para el conocimiento.*
+<div align="center">
+
+# 🏛️ SGRI - Sistema de Gestión de la Investigación Institucional
+
+### **Plataforma de Gestión Académica Universal**
+*Impulsando el conocimiento a través de la tecnología.*
+
+![Hero Banner](./hero.png)
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Status](https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge)](https://github.com/ochuxx/project-sgri)
+
+</div>
 
 ---
 
-## 🚀 SGRI - Campus Académico (React)
+## 📖 Sobre el Proyecto
 
-Una aplicación web moderna y premium construida con React y Vite, diseñada para la gestión académica y de proyectos con una estética "Liquid Glass".
+El **SGRI** es una plataforma integral diseñada para centralizar, gestionar y optimizar los procesos de investigación en el ámbito académico. Su arquitectura flexible y modular permite que sea implementada de manera efectiva en **cualquier institución de educación superior o universidad**.
 
-### Características principales
+Este sistema permite a estudiantes, profesores y administradores colaborar en proyectos académicos con una interfaz de vanguardia y herramientas diseñadas para la eficiencia.
 
-- **Interfaz Premium**: Diseño basado en Glassmorphism con animaciones fluidas y soporte para múltiples temas (Oscuro, Claro, Dim, Eye Care).
-- **Gestión de Proyectos**: Tablero Kanban interactivo para el seguimiento de tareas.
-- **Gestor de Archivos**: Sistema con control de versiones local para mayor seguridad.
-- **Optimización Móvil**: 100% responsive, diseñado para ofrecer una experiencia nativa tanto en escritorio como en dispositivos móviles (Android/iOS).
-- **Navegación Inteligente**: Command Palette estilo Spotlight para una navegación rápida.
+### 🌟 Características Destacadas
 
-## 🛠️ Tecnologías
+- **💎 Estética Liquid Glass**: Una interfaz moderna basada en Glassmorphism que ofrece una experiencia de usuario premium y fluida.
+- **📊 Gestión Centralizada**: Control total sobre proyectos, cronogramas y tareas académicas.
+- **📱 Responsive Nativo**: Optimizado para funcionar perfectamente en cualquier dispositivo, desde PCs de escritorio hasta smartphones.
+- **🔍 Navegación Inteligente**: Incluye herramientas de búsqueda rápida y acceso instantáneo a módulos críticos.
 
-- **Core**: React 19 + Vite
-- **Estilos**: Vanilla CSS con variables dinámicas y efectos de desenfoque.
-- **Iconos**: Lucide Icons (SVG).
-- **Estado**: React Context API con `useReducer`.
+---
 
-## 📦 Instalación y Uso
+## 🛠️ Instalación y Uso
+
+Si deseas probar la aplicación localmente:
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/ochuxx/project-sgri.git
    ```
-
 2. Instala las dependencias:
    ```bash
    npm install
    ```
-
 3. Inicia el servidor de desarrollo:
    ```bash
    npm run dev
    ```
 
-## 📊 Diagramas y Documentación
+---
 
-### Casos de uso
-Casos de uso en el sistema SGRI por cada uno de los actores: **estudiante**, **profesor** y **administración estudiantil**.
+## 📄 Documentación Adicional
 
-<img src="./Docs/Diagrams/Images/Casos_de_Uso_vr2.1.png" alt="imagen_casos_de_uso" style="max-width: 350px;">
-
-### Documentación técnica adicional
 - [Documentación Técnica](./DOCUMENTACION_TECNICA.md)
 - [Resumen Detallado](./RESUMEN_DETALLADO.md)
 
 ---
-*Proyecto generado como parte de la modernización del Campus Académico (SGRI) - 2026.*
+
+<div align="center">
+Desarrollado con ❤️ para la comunidad académica global - 2026.
+</div>
