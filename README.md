@@ -1,8 +1,14 @@
-# SGRI - Campus Académico (React)
+# SGRI - Sistema de Gestión de la Investigación Institucional
+## Proyecto para la Fundación Universitaria Cafam.
+*Open Source para el conocimiento.*
+
+---
+
+## 🚀 SGRI - Campus Académico (React)
 
 Una aplicación web moderna y premium construida con React y Vite, diseñada para la gestión académica y de proyectos con una estética "Liquid Glass".
 
-## 🚀 Características principales
+### Características principales
 
 - **Interfaz Premium**: Diseño basado en Glassmorphism con animaciones fluidas y soporte para múltiples temas (Oscuro, Claro, Dim, Eye Care).
 - **Gestión de Proyectos**: Tablero Kanban interactivo para el seguimiento de tareas.
@@ -21,7 +27,7 @@ Una aplicación web moderna y premium construida con React y Vite, diseñada par
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/ochuxx/project-sgri.git
    ```
 
 2. Instala las dependencias:
@@ -34,9 +40,14 @@ Una aplicación web moderna y premium construida con React y Vite, diseñada par
    npm run dev
    ```
 
-## 📄 Documentación adicional
+## 📊 Diagramas y Documentación
 
-Para más detalles técnicos, consulta los siguientes archivos:
+### Casos de uso
+Casos de uso en el sistema SGRI por cada uno de los actores: **estudiante**, **profesor** y **administración estudiantil**.
+
+<img src="./Docs/Diagrams/Images/Casos_de_Uso_vr2.1.png" alt="imagen_casos_de_uso" style="max-width: 350px;">
+
+### Documentación técnica adicional
 - [Documentación Técnica](./DOCUMENTACION_TECNICA.md)
 - [Resumen Detallado](./RESUMEN_DETALLADO.md)
 

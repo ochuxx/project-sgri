@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Project specific ignores from remote
+Docs/*pptx
+Docs/Diagrams/*.drawio.bkp
+Esquema_Tecnico_Inicial.pdf
